@@ -1,0 +1,13 @@
+org/example/Main.class
+org/example/AbstractEquation.class
+org/example/Printer.class
+org/example/EquationFactory.class
+org/example/EquationCollection.class
+org/example/tests.class
+org/example/SubEquation$SubEquationBuilder.class
+org/example/EquationChecker.class
+org/example/AddEquation$AddEquationBuilder.class
+org/example/AddEquation.class
+org/example/SubEquation.class
+org/example/IEquation.class
+org/example/EuqationCheckerOfRange.class
